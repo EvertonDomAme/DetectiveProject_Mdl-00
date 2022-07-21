@@ -1,0 +1,20 @@
+{
+  "name": "DetectiveProject_Mdl-00",
+  "version": "1.0.0",
+  "description": "Module 0  JavaScript- Proposed project. - Detective - Create a code where the user answers 5 questions, where the amount of positive or negative answers classify the user as Innocent, Suspect or Guilty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvertonDomAme/DetectiveProject_Mdl-00.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvertonDomAme/DetectiveProject_Mdl-00/issues"
+  },
+  "homepage": "https://github.com/EvertonDomAme/DetectiveProject_Mdl-00#readme"
+}
